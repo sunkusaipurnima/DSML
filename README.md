@@ -26,4 +26,27 @@ This repository contains projects related to the Data Science and Machine Learni
   - `EDA/Aerofit - Descriptive Statistics & Probability/data`: Directory containing datasets.
   - `EDA/Aerofit - Descriptive Statistics & Probability/src`: Collab notebooks.
 - **Link** https://github.com/sunkusaipurnima/DSML/tree/main/EDA/Aerofit - Descriptive Statistics & Probability/src/Aerofit_Business_Case.ipynb
+
+### 4. Walmart : Confidence Interval & CLT
+- **Description:** Walmart is an American multinational retail corporation that operates a chain of supercenters, discount departmental stores, and grocery stores from the United States. Walmart has more than 100 million customers worldwide.
+- **Libraries Used:** Python,Numpy,Matplotlib,seaborn,scipy.
+- **Files:**
+  - `EDA/Walmart : Confidence Interval & CLT/data`: Directory containing datasets.
+  - `EDA/Walmart : Confidence Interval & CLT/src`: Collab notebooks.
+- **Link** https://github.com/sunkusaipurnima/DSML/tree/main/EDA/Walmart : Confidence Interval & CLT/src/WalmartBusinessCase.ipynb
+
+### 5. Yulu : Hypothesis Testing
+- **Description:** Yulu is India’s leading micro-mobility service provider, which offers unique vehicles for the daily commute. Starting off as a mission to eliminate traffic 
+   congestion in India, Yulu provides the safest commute solution through a user-friendly mobile app to enable shared, solo and sustainable commuting.
+   Yulu zones are located at all the appropriate locations (including metro stations, bus stands, office spaces, residential areas, corporate offices, etc) to make those first and 
+   last miles smooth, affordable, and convenient!
+   Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric 
+   cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
+- **Libraries Used:** Python,Numpy,Matplotlib,seaborn,scipy.
+- **Files:**
+  - `EDA/Yulu : Hypothesis Testing/data`: Directory containing datasets.
+  - `EDA/Yulu : Hypothesis Testing/src`: Collab notebooks.
+- **Link** https://github.com/sunkusaipurnima/DSML/tree/main/EDA/Yulu : Hypothesis Testing/src/Yulu_CaseStudyipynb.ipynb
+  
+  
   
