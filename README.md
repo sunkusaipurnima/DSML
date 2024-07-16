@@ -18,4 +18,12 @@ This repository contains projects related to the Data Science and Machine Learni
   - `EDA/Netflix-CaseStudy/data/`: Directory containing datasets.
   - `EDA/Netflix-CaseStudy/notebooks/`: Collab notebooks.
 - **Link** https://github.com/sunkusaipurnima/DSML/tree/main/EDA/Netflix-CaseStudy
+
+### 3. Aerofit : Descriptive Statistics & Probability
+- **Description:** Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
+- **Libraries Used:** Python,Numpy,Matplotlib,seaborn,scipy.
+- **Files:**
+  - `EDA/Aerofit - Descriptive Statistics & Probability/data`: Directory containing datasets.
+  - `EDA/Aerofit - Descriptive Statistics & Probability/src`: Collab notebooks.
+- **Link** https://github.com/sunkusaipurnima/DSML/tree/main/EDA/Aerofit - Descriptive Statistics & Probability/src/Aerofit_Business_Case.ipynb
   
