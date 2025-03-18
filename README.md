@@ -47,6 +47,26 @@ This repository contains projects related to the Data Science and Machine Learni
   - `EDA/Yulu : Hypothesis Testing/data`: Directory containing datasets.
   - `EDA/Yulu : Hypothesis Testing/src`: Collab notebooks.
 - **Link** https://github.com/sunkusaipurnima/DSML/tree/main/EDA/Yulu : Hypothesis Testing/src/Yulu_CaseStudyipynb.ipynb
+
+### 6.Delhivery
+-**Description:**
+Delhivery, India's leading and rapidly growing integrated player, has set its sights on creating
+the commerce operating system.
+They achieve this by utilizing world-class infrastructure, ensuring the highest quality in
+logistics operations, and harnessing cutting-edge engineering and technology capabilities.
+-**Libraries Used:**
+Python,Numpy,Matplotlib,Seaborn,scipy
+
+### 7.Jamboree Education : Linear Regression
+- **Description:** Jamboree has helped thousands of students like you make it to top colleges abroad. Be it GMAT, GRE or SAT, their unique problem-solving methods ensure maximum scores with minimum effort. They recently launched a feature where students/learners can come to their website and check their probability of getting into the IVY league college. This feature estimates the chances of graduate admission from an Indian perspective.
+- **Libraries Used:** Python,Numpy,Matplotlib,seaborn,scipy.
+- **Files:**
+  - `EDA/Yulu : Hypothesis Testing/data`: Directory containing datasets.
+  - `EDA/Yulu : Hypothesis Testing/src`: Collab notebooks.
+- **Link** https://github.com/sunkusaipurnima/DSML/tree/main/EDA/Yulu : Hypothesis Testing/src/Yulu_CaseStudyipynb.ipynb
+
+
+
   
   
   
